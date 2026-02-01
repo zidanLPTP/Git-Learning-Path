@@ -85,4 +85,4 @@ Untuk memastikan datamu sudah tersimpan di sistem Git, gunakan tabel perintah be
 ## ⏭️ Next Step
 Sekarang mobil sudah siap dan driver sudah terdaftar secara resmi. Ayo kita mulai masuk ke babak praktek dan belajar cara membuat "Gudang" (Repository) pertama kita!
 
-👉 **Lanjut ke folder Dasar Git: [Inisialisasi Repository (git init)](../02_Dasar_Git/init-repo.md)**
+👉 **Lanjut ke folder Dasar Git: [Inisialisasi Repository (git init)](../02_Dasar_Git/01-workflow-tiga-area.md)**

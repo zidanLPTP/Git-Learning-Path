@@ -71,4 +71,4 @@ Kebingungan terjadi karena saat kita menggunakan GitHub, kita **wajib** mengguna
 ## ⏭️ Next Step
 Sudah paham teorinya? Sekarang saatnya kita "mengotori" tangan. Ayo kita mulai dari langkah paling awal: instalasi dan konfigurasi identitasmu di Git!
 
-👉 **Lanjut ke: [Instalasi dan Setup Awal]()**
+👉 **Lanjut ke: [Instalasi dan Setup Awal](04-instalasi-dan-setup-awal.md)**

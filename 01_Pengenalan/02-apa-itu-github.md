@@ -72,4 +72,4 @@ Bayangkan GitHub itu seperti **Instagram**, tapi isinya bukan foto makanan atau 
 ## ⏭️ Next Step
 Banyak orang mengira Git dan GitHub itu hal yang sama. Agar tidak salah paham saat presentasi atau interview, yuk kita bedah perbedaannya secara mendalam!
 
-👉 **Lanjut ke: [Perbedaan Git dan GitHub](perbedaan-git-dan-github.md)**
+👉 **Lanjut ke: [Perbedaan Git dan GitHub](03-perbedaan-git-dan-github.md)**

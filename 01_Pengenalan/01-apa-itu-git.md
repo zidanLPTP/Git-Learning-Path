@@ -64,4 +64,4 @@ Agar lebih mudah, bayangkan kamu sedang bermain game RPG (seperti *Elden Ring*, 
 ## ⏭️ Next Step
 Sekarang kamu sudah tahu "Kenapa" harus pakai Git. Tapi, di mana kita menyimpan semua catatan itu agar bisa dilihat orang lain secara online dan aman?  
 
-👉 **Lanjut ke: [Apa itu GitHub?](apa-itu-github.md)**
+👉 **Lanjut ke: [Apa itu GitHub?](02-apa-itu-github.md)**
