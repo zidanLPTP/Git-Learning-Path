@@ -113,4 +113,4 @@ git rm --cached <nama_file>
 
 Selamat! Kamu sudah menguasai dasar manajemen file di lokal. Saatnya naik level ke fitur paling kuat Git: bekerja di jalur berbeda tanpa merusak kode utama.
 
- **Lanjut ke: [Mengenal Branching](03_Branch_dan_Merge/branch.md)**
+ **Lanjut ke: [Mengenal Branching](../03_Branch_dan_Merge/01-branch.md)**
